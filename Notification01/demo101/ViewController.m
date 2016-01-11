@@ -2,8 +2,8 @@
 //  ViewController.m
 //  demo101
 //
-//  Created by Zhang KingKa on 12-2-20.
-//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//  Created by chenyufeng on 15/12/16.
+//  Copyright (c) 2015年 chenyufengweb. All rights reserved.
 //
 
 #import "ViewController.h"
