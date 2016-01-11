@@ -10,5 +10,4 @@
 
 @interface inputValue : UIViewController
 
-
 @end
